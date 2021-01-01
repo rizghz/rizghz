@@ -1,4 +1,4 @@
-[![my-github-stats](https://github-readme-stats.vercel.app/api?username=rizghz)](https://github.com/rizghz/github-readme-stats)
+![rizghz-github-stats](https://github-readme-stats.vercel.app/api?username=rizghz)
 
 
 <!--
