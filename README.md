@@ -1,6 +1,6 @@
-[rizghz-github-stats](https://github-readme-stats.vercel.app/api?username=rizghz&show_icons=true) 
+![rizghz-github-stats](https://github-readme-stats.vercel.app/api?username=rizghz&show_icons=true) 
 
-[langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizghz&layout=compact)]
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizghz&layout=compact)
 
 
 
