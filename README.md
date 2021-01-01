@@ -1,4 +1,4 @@
-![rizghz-github-stats](https://github-readme-stats.vercel.app/api?username=rizghz&show_icons=true) ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizghz)
+![rizghz-github-stats](https://github-readme-stats.vercel.app/api?username=rizghz&show_icons=true) ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizghz&exclude_repo=belajar-bitmap,aplikasi-pembayaran-spp)
 
 
 
