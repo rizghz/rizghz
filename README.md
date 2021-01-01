@@ -1,6 +1,7 @@
-![rizghz-github-stats](https://github-readme-stats.vercel.app/api?username=rizghz&show_icons=true) 
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizghz&layout=compact)
+<div align="center">
+<img alt="rizghz-github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizghz&layout=compact&bg_color=00000000&title_color=ECEFF4&text_color=E5E9F0&hide_border=true">
+<img alt="rizghz-github-stats" src="https://github-readme-stats.vercel.app/api?username=rizghz&show_icons=true&hide=issues,commits&bg_color=00000000&title_color=ECEFF4&text_color=E5E9F0&icon_color=8FBCBB&hide_border=true">
+</div>
 
 
 
