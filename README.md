@@ -1,21 +1,14 @@
+<!-- header -->
 <div align="center">
-<img alt="rizghz-github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizghz&layout=compact&bg_color=00000000&title_color=ECEFF4&text_color=E5E9F0&hide_border=true">
-<img alt="rizghz-github-stats" src="https://github-readme-stats.vercel.app/api?username=rizghz&show_icons=true&hide=issues,commits&bg_color=00000000&title_color=ECEFF4&text_color=E5E9F0&icon_color=8FBCBB&hide_border=true">
+<img width="100%" src="https://github.com/rizghz/rizghz/blob/main/assets/header.jpg" />
 </div>
 
+<!-- languages -->
+<div align="center">
+</div>
 
-
-<!--
-**rizghz/rizghz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- stats -->
+<div align="center">
+<img alt="rizghz-github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizghz&layout=compact&bg_color=00000000&title_color=ECEFF4&text_color=E5E9F0&hide_border=true" />
+<img alt="rizghz-github-stats" src="https://github-readme-stats.vercel.app/api?username=rizghz&show_icons=true&hide=issues&bg_color=00000000&title_color=ECEFF4&text_color=E5E9F0&icon_color=8FBCBB&hide_border=true" />
+</div>
