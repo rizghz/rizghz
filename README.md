@@ -1,7 +1,7 @@
 <img width="100%" src="assets/header.png">
 
 <div align="center" style="margin: 10px 0px 10px 0px;">
-     <span style="display: block; margin: 10px 0px 10px 0px; font-weight: bold; font-size: 17px;">Programming language that I use</span>
+     <h3>Programming language that I use</h3>
      <img title="C" height=60 src="assets/logo-c.png">
      <img title="C++" height=60 src="assets/logo-cpp.png">
      <img title="C#" height=60 src="assets/logo-csharp.png">
